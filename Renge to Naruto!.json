@@ -5,6 +5,41 @@
     "artist": "nicolai",
     "cover": "https://files.catbox.moe/mw755s.jpg",
     "chapters": {
+        "1": {
+            "title": "Grand Opening!",
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": [
+                    "https://files.catbox.moe/w35nnu.jpg",
+                    "https://files.catbox.moe/xq2hn0.jpg",
+                    "https://files.catbox.moe/0zx4a1.jpg",
+                    "https://files.catbox.moe/w9cfy9.jpg",
+                    "https://files.catbox.moe/scu48p.jpg",
+                    "https://files.catbox.moe/7zfl0q.jpg",
+                    "https://files.catbox.moe/er656k.jpg",
+                    "https://files.catbox.moe/7kbtmu.jpg",
+                    "https://files.catbox.moe/b7vqa4.jpg",
+                    "https://files.catbox.moe/8ribf8.jpg",
+                    "https://files.catbox.moe/4g10zw.png",
+                    "https://files.catbox.moe/cnevip.png",
+                    "https://files.catbox.moe/gpk98d.png",
+                    "https://files.catbox.moe/432d1g.png",
+                    "https://files.catbox.moe/5cm7ps.png",
+                    "https://files.catbox.moe/l04uqh.png",
+                    "https://files.catbox.moe/hs5kqu.png",
+                    "https://files.catbox.moe/p9njr8.png",
+                    "https://files.catbox.moe/5c8xf1.png",
+                    "https://files.catbox.moe/atksvm.png",
+                    "https://files.catbox.moe/hg6cqt.png",
+                    "https://files.catbox.moe/zkgt9r.png",
+                    "https://files.catbox.moe/posbyg.png",
+                    "https://files.catbox.moe/lcaqop.png",
+                    "https://files.catbox.moe/lapv4p.png"
+                ]
+            },
+            "last_updated": "1699729436"
+        },
+        
         "35": {
             "title": "Wanko!",
             "groups": {
