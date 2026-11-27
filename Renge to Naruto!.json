@@ -3,13 +3,510 @@
     "description": "It's been a few months since the neighborhood Chinese restaurant closed down, and when I stopped by for the first time in a while, I found that it had been transformed into a flashy, mysterious restaurant with its old signboard still intact. When I went inside, there was a gal there...\n\nOfficial links:\n - [BigComics](https://bigcomics.jp/series/65c732936bb6c/)\n - [Book☆Walker](https://bookwalker.jp/series/462574/list/)\n - [Amazon JP](https://www.amazon.co.jp/dp/B0CXN6TV9C)\n - [Author's Twitter/X](https://x.com/nic01ai)\n\nMiracle Gyaru Scans's Discord: [discord.gg/qAEKHvxhVw](https://discord.gg/qAEKHvxhVw)",
     "author": "nicolai",
     "artist": "nicolai",
-    "cover": "https://files.catbox.moe/cngo1f.jpg",
+    "cover": "https://cdn.imgchest.com/files/e186d2688f89.jpg",
     "chapters": {
-        "0": {
-            "last_updated": 0,
-            "title": "Test",
+        "1": {
+            "title": "Grand Opening!",
+            "last_updated": 1699729436,
+            "volume": 1,
             "groups": {
-                "gabagool": "/read/api/imgchest/chapter/wl7legw234x/"
+                "Project Pigeon": "/read/api/imgchest/chapter/ljyqnre8dy2/"
+            }
+        },
+        "2": {
+            "title": "Recommendation!",
+            "last_updated": 1700436847,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/n87wwx29q7x/"
+            }
+        },
+        "3": {
+            "title": "Gyoza!",
+            "last_updated": 1701651531,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/md7o6q3bl7p/"
+            }
+        },
+        "4": {
+            "title": "Special!",
+            "last_updated": 1702857527,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/9rydv6o26yk/"
+            }
+        },
+        "5": {
+            "title": "Such and Such!",
+            "last_updated": 1704667999,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/xny8b586wyb/"
+            }
+        },
+        "6": {
+            "title": "Draft Beer!",
+            "last_updated": 1705974694,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/m9yxz8ln67q/"
+            }
+        },
+        "7": {
+            "title": "Delivery Box!",
+            "last_updated": 1707085650,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/na7k3vq5wy8/"
+            }
+        },
+        "8": {
+            "title": "Renge and Naruto!",
+            "last_updated": 1708296308,
+            "volume": 1,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/9rydv6on6yk/"
+            }
+        },
+        "9": {
+            "title": "Doctor Hayama!",
+            "last_updated": 1709506229,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/ljyqnremky2/"
+            }
+        },
+        "10": {
+            "title": "Chili Shrimp!",
+            "last_updated": 1711923393,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/9p4n5jmml4n/"
+            }
+        },
+        "11": {
+            "title": "Tan Tan Men!",
+            "last_updated": 1713753218,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/wl7le2ddo4x/"
+            }
+        },
+        "12": {
+            "title": "Yakisoba!",
+            "last_updated": 1714946931,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/lqye9gook4d/"
+            }
+        },
+        "13": {
+            "title": "Staff Meals!",
+            "last_updated": 1716158027,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/a846v5zzv7x/"
+            }
+        },
+        "14": {
+            "title": "Veggie Stir Fry!",
+            "last_updated": 1717377218,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/dl7pxdwbk4o/"
+            }
+        },
+        "15": {
+            "title": "Chanpon!",
+            "last_updated": 1719178779,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/wl7le2d8o4x/"
+            }
+        },
+        "16": {
+            "title": "Chanpon!!",
+            "last_updated": 1720386939,
+            "volume": 2,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/6eyrpmzb64p/"
+            }
+        },
+        "17": {
+            "title": "Glasses!",
+            "last_updated": 1721632840,
+            "volume": 3,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/bp45a5ebxy5/"
+            }
+        },
+        "18": {
+            "title": "Quail!",
+            "last_updated": 1722814491,
+            "volume": 3,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/9p4n5jmdw4n/"
+            }
+        },
+        "19": {
+            "title": "Katsudon!",
+            "last_updated": 1725212755,
+            "volume": 3,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/5xy2w8mvnyl/"
+            }
+        },
+        "20": {
+            "title": "Cold Ramen!",
+            "last_updated": 1727663049,
+            "volume": 3,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/ej7mglrqq7d/"
+            }
+        },
+        "21": {
+            "title": "Watermelon!",
+            "last_updated": 1728860950,
+            "volume": 3,
+            "groups": {
+                "Project Pigeon": "/read/api/imgchest/chapter/bp45a5e9xy5/"
+            }
+        },
+        "22": {
+            "title": "Chicken Nanban!",
+            "last_updated": 1737157436,
+            "volume": 3,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/ljyqn29nxy2/"
+            }
+        },
+        "23": {
+            "title": "Mapo Tofu!",
+            "last_updated": 1737584281,
+            "volume": 3,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/vj4jr8drey8/"
+            }
+        },
+        "24": {
+            "title": "Tenshinhan!",
+            "last_updated": 1738171494,
+            "volume": 3,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/6eyrplgp64p/"
+            }
+        },
+        "25": {
+            "title": "Gyudon!",
+            "last_updated": 1738779167,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/qe4gowdobyj/"
+            }
+        },
+        "26": {
+            "title": "Naruto!",
+            "last_updated": 1739396994,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmxbdyb/"
+            }
+        },
+        "27": {
+            "title": "Ramen!",
+            "last_updated": 1740605941,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/9p4n582gl4n/"
+            }
+        },
+        "28": {
+            "title": "Sweet and Sour Pork!",
+            "last_updated": 1741531325,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/md7o68lz97p/"
+            }
+        },
+        "29": {
+            "title": "Festival!",
+            "last_updated": 1742580144,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/wl7leokzo4x/"
+            }
+        },
+        "30": {
+            "title": "What a Mess!",
+            "last_updated": 1743190843,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/ljyqn2qgky2/"
+            }
+        },
+        "31": {
+            "title": "Weird Person!",
+            "last_updated": 1743190877,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/ej7mg8nzj7d/"
+            }
+        },
+        "32": {
+            "title": "Chukadon!",
+            "last_updated": 1743802220,
+            "volume": 4,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/qb4zan36vyj/"
+            }
+        },
+        "33": {
+            "title": "I'm Sorry!",
+            "last_updated": 1744409242,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmz95yb/"
+            }
+        },
+        "34": {
+            "title": "It's Okay!",
+            "last_updated": 1745616561,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/dl7px8q6p4o/"
+            }
+        },
+        "35": {
+            "title": "Wanko!",
+            "last_updated": 1747751880,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/5xy2w2er3yl/"
+            }
+        },
+        "36": {
+            "title": "Movie!",
+            "last_updated": 1749841346,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/9rydvrzg6yk/"
+            }
+        },
+        "37": {
+            "title": "Grandma!",
+            "last_updated": 1751066952,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/n87wwmvkq7x/"
+            }
+        },
+        "38": {
+            "title": "Confession!",
+            "last_updated": 1752260466,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/qe4gowlakyj/"
+            }
+        },
+        "39": {
+            "title": "Jar!",
+            "last_updated": 1753482436,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/a846vdxe27x/"
+            }
+        },
+        "40": {
+            "title": "Twice-Cooked Pork!",
+            "last_updated": 1754696599,
+            "volume": 5,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/9rydvrzv6yk/"
+            }
+        },
+        "41": {
+            "last_updated": 1755979298,
+            "title": "Kakuni!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/6eyrpld8k4p/"
+            }
+        },
+        "42": {
+            "last_updated": 1757716856,
+            "title": "Extra Spicy!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmlqpyb/"
+            }
+        },
+        "43": {
+            "last_updated": 1758929431,
+            "title": "Full House!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/m9yxz3gmm7q/"
+            }
+        },
+        "44": {
+            "last_updated": 1761418779,
+            "title": "Coupons!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/ne7b8qx2k75/"
+            }
+        },
+        "45": {
+            "last_updated": 1763166317,
+            "title": "Seven Rules!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/md7o68jea7p/"
+            }
+        },
+        "46": {
+            "last_updated": 1764864395,
+            "title": "Luna-nee!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/ljyqn2d8ey2/"
+            }
+        },
+        "47": {
+            "last_updated": 1765571774,
+            "title": "Christmas!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/bp45aqd3xy5/"
+            }
+        },
+        "48": {
+            "last_updated": 1766867784,
+            "title": "Tanghulu!",
+            "volume": 6,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmld2yb/"
+            }
+        },
+        "49": {
+            "last_updated": 1767999261,
+            "title": "Sumire SP!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/na7k38w63y8/"
+            }
+        },
+        "50": {
+            "last_updated": 1769208213,
+            "title": "Heater!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/6eyrpldel4p/"
+            }
+        },
+        "51": {
+            "last_updated": 1771173498,
+            "title": "Sara Udon!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmlawyb/"
+            }
+        },
+        "52": {
+            "last_updated": 1773878809,
+            "title": "Cabbage Rolls!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/wl7leomn34x/"
+            }
+        },
+        "53": {
+            "last_updated": 1774897387,
+            "title": "Team Miracle-Ken!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/xny8bmlgwyb/"
+            }
+        },
+        "54": {
+            "last_updated": 1776368355,
+            "title": "Malatang!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/vj4jr8wr9y8/"
+            }
+        },
+        "55": {
+            "last_updated": 1777371318,
+            "title": "Renge's Day!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/qb4zankalyj/"
+            }
+        },
+        "56": {
+            "last_updated": 1778358900,
+            "title": "School Trip!",
+            "volume": 7,
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/m9yxz3gz67q/"
+            }
+        },
+        "57": {
+            "last_updated": 1779887541,
+            "title": "Turkish Rice!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/n87wwmgzq7x/"
+            }
+        },
+        "58": {
+            "last_updated": 1782486181,
+            "title": "Bowl of Sunshine!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/qe4gowxvkyj/"
+            }
+        },
+        "59": {
+            "last_updated": 1784905218,
+            "title": "First Delivery!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/agyvmrwzky8/"
+            }
+        },
+        "60": {
+            "last_updated": 1787919682,
+            "title": "Teamwork!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/md7o68xgl7p/"
+            }
+        },
+        "61": {
+            "last_updated": 1789129098,
+            "title": "Starry Sky!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/md7o68x3r7p/"
+            }
+        },
+        "62": {
+            "last_updated": 1790349060,
+            "title": "Next Year...!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/9p4n58xam4n/"
+            }
+        },
+        "63": {
+            "last_updated": 1792770173,
+            "title": "Mapo Don!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/dl7px89pp4o/"
+            }
+        },
+        "64": {
+            "last_updated": 1794590220,
+            "title": "Pig Out!",
+            "groups": {
+                "Miracle Gyaru Scans ★": "/read/api/imgchest/chapter/9249o3gbb4n/"
             }
         }
     }
